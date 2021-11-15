@@ -2,7 +2,7 @@ Hi, I’m Iris Foxfoot :fox_face: (she/her)
 - :earth_africa: I’m interested in using data to solve environmental problems!
 - 🌱 I enjoy learning new things, reading books, and snowboarding
 - :love_letter: How to reach me
-   -  [email](foxfoot@ucsb.edu)
+   -  email: foxfoot@ucsb.edu
    -  [LinkedIn](https://www.linkedin.com/in/iris-foxfoot-61958b202/)
 
 <!---
