@@ -1,3 +1,6 @@
+![Iris foxfoot](https://user-images.githubusercontent.com/72639615/146108669-1bb090c1-b300-4fdf-9f7c-8b639d461101.png)
+
+
 Hi, I’m Iris Foxfoot :fox_face: (she/her)
 - :earth_africa: I’m interested in using data to solve environmental problems!
 - 🌱 I enjoy learning new things, reading books, and snowboarding
