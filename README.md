@@ -1,16 +1,21 @@
-![Iris foxfoot](https://user-images.githubusercontent.com/72639615/146108669-1bb090c1-b300-4fdf-9f7c-8b639d461101.png)
+![github banner](https://user-images.githubusercontent.com/72639615/212570382-4f1b2dcc-c576-45ed-a316-292f8325d120.png)
 
 
-Hi, I’m Iris Foxfoot :fox_face: (she/her)
-- :earth_africa: I’m interested in using data to solve environmental problems!
-- 🌱 I enjoy learning new things, reading books, and snowboarding
-- :love_letter: How to reach me
-   -  email: foxfoot@ucsb.edu
+Hi, I’m Iris Foxfoot :fox_face: 
+
+I'm currently an Environmental Data Scientist/Research Scientist at the US Army Engineer Research and Development Center, where I work on the Ecological Modeling Team. I love making maps, using statistics to discover new things, and coding in R and Python. I also enjoy spending time in nature, being creative, and snowboarding!
+
+## What I've been working on
+
+- I'm developing the `fqacalc` R package, which will allow users to calculate Floristic Quality Assessment metrics.
+- I'm learning how to build agent-based models using the `mesa` framework in Python.
+- I recently completed my master's degree in Environmental Science at UCSB, where I focused on equity in wildfire planning.
+
+## How to reach me
+   -  email: ifoxfoot@gmail.com
    -  [LinkedIn](https://www.linkedin.com/in/iris-foxfoot-61958b202/)
 
 <!---
 ifoxfoot/ifoxfoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Iris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifoxfoot&hide=stars&theme=radical)](https://github.com/ifoxfoot/github-readme-stats)
