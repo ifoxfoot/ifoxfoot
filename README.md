@@ -3,12 +3,12 @@
 
 Hi, I’m Iris Foxfoot :fox_face: 
 
-I'm currently an Environmental Data Scientist/Research Scientist at the US Army Engineer Research and Development Center, where I work on the Ecological Modeling Team. I love making maps, using statistics to discover new things, and coding in R and Python. I also enjoy spending time in nature, being creative, and snowboarding!
+I'm currently an Environmental Data Scientist/Research Scientist at the U.S. Army Engineer Research and Development Center, where I work on the Ecological Modeling Team. I love making maps, using statistics to discover new things, and coding in R and Python. I also enjoy spending time in nature, being creative, and snowboarding!
 
 ## What I've been working on
 
-- I'm developing the `fqacalc` R package, which will allow users to calculate Floristic Quality Assessment metrics.
-- I'm learning how to build agent-based models using the `mesa` framework in Python.
+- I developed the `fqacalc` and `fqadata` R packages to calculate Floristic Quality Assessment metrics.
+- I'm building agent-based models using the `mesa` framework in Python and the `netlogo` modeling environment.
 - I recently completed my master's degree in Environmental Science at UCSB, where I focused on equity in wildfire planning.
 
 ## How to reach me
